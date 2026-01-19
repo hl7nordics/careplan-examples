@@ -46,6 +46,8 @@ publisher:
 pages:
   index.md:
     title: Home
+  use-in-denmark.md:
+    title: CarePlans in Denmark
   acknowledgements.md:
     title: Acknowledgements
 
@@ -72,6 +74,8 @@ pages:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
+  Use In:
+    Denmark: use-in-denmark.html
   Acknowledgements: acknowledgements.html
   Artifacts: artifacts.html
 
