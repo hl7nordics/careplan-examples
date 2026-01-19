@@ -1,0 +1,9 @@
+[
+  {
+    "id" : "hl7.fhir.nordic.careplans",
+    "type" : "ImplementationGuide",
+    "url" : "http://nordic.hl7.org/fhir/ig/hl7.fhir.nordic.careplans/ImplementationGuide/hl7.fhir.nordic.careplans",
+    "version" : "0.1.0",
+    "name" : "CarePlanExamples"
+  }
+]

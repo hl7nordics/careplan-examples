@@ -1,0 +1,17 @@
+# hl7.fhir.nordic.careplans#0.1.0: null
+
+## Pages
+
+* [Home](index.md)
+* [Acknowledgements](acknowledgements.md)
+* [Artifacts Summary](artifacts.md)
+
+## Resources
+
+### ImplementationGuides
+
+* [CarePlanExamples](index.md)
+
+### Examples
+
+* [Example (Patient)](Patient-Example.md)
