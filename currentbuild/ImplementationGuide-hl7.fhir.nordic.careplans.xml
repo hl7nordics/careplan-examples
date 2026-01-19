@@ -9,7 +9,7 @@
   <version value="0.1.0"/>
   <name value="CarePlanExamples"/>
   <status value="draft"/>
-  <date value="2026-01-19T08:46:02+00:00"/>
+  <date value="2026-01-19T08:56:52+00:00"/>
   <publisher value="HL7 Nordics"/>
   <contact>
     <name value="HL7 Nordics"/>
@@ -465,6 +465,14 @@
         </extension>
         <nameUrl value="index.html"/>
         <title value="Home"/>
+        <generation value="markdown"/>
+      </page>
+      <page>
+        <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-page-name">
+          <valueUrl value="use-in-denmark.html"/>
+        </extension>
+        <nameUrl value="use-in-denmark.html"/>
+        <title value="CarePlans in Denmark"/>
         <generation value="markdown"/>
       </page>
       <page>

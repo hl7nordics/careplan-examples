@@ -5,6 +5,7 @@
 * [Home](index.md)
 * [Acknowledgements](acknowledgements.md)
 * [Artifacts Summary](artifacts.md)
+* [CarePlans in Denmark](use-in-denmark.md)
 
 ## Resources
 

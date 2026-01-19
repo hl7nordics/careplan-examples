@@ -20,7 +20,7 @@
   fhir:version [ fhir:v "0.1.0"] ; # 
   fhir:name [ fhir:v "CarePlanExamples"] ; # 
   fhir:status [ fhir:v "draft"] ; # 
-  fhir:date [ fhir:v "2026-01-19T08:46:02+00:00"^^xsd:dateTime] ; # 
+  fhir:date [ fhir:v "2026-01-19T08:56:52+00:00"^^xsd:dateTime] ; # 
   fhir:publisher [ fhir:v "HL7 Nordics"] ; # 
   fhir:contact ( [
      fhir:name [ fhir:v "HL7 Nordics" ] ;
@@ -1339,6 +1339,25 @@
            fhir:l fhir:index.html
          ] ;
          fhir:title [ fhir:v "Home" ] ;
+         fhir:generation [ fhir:v "markdown" ]
+       ] [
+         fhir:extension ( [
+           fhir:url [
+             fhir:v "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name"^^xsd:anyURI ;
+             fhir:l <http://hl7.org/fhir/tools/StructureDefinition/ig-page-name>
+           ] ;
+           fhir:value [
+             a fhir:Url ;
+             fhir:v "use-in-denmark.html"^^xsd:anyURI ;
+             fhir:l fhir:use-in-denmark.html
+           ]
+         ] ) ;
+         fhir:name [
+           a fhir:Url ;
+           fhir:v "use-in-denmark.html"^^xsd:anyURI ;
+           fhir:l fhir:use-in-denmark.html
+         ] ;
+         fhir:title [ fhir:v "CarePlans in Denmark" ] ;
          fhir:generation [ fhir:v "markdown" ]
        ] [
          fhir:extension ( [

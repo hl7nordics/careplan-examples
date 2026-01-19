@@ -24,7 +24,7 @@
   "version" : "0.1.0",
   "name" : "CarePlanExamples",
   "status" : "draft",
-  "date" : "2026-01-19T08:46:02+00:00",
+  "date" : "2026-01-19T08:56:52+00:00",
   "publisher" : "HL7 Nordics",
   "contact" : [
     {
@@ -759,6 +759,17 @@
           ],
           "nameUrl" : "index.html",
           "title" : "Home",
+          "generation" : "markdown"
+        },
+        {
+          "extension" : [
+            {
+              "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name",
+              "valueUrl" : "use-in-denmark.html"
+            }
+          ],
+          "nameUrl" : "use-in-denmark.html",
+          "title" : "CarePlans in Denmark",
           "generation" : "markdown"
         },
         {
